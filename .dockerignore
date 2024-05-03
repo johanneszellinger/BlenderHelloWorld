@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+
+# allowed files
+!/sam
+!pyproject.toml
+!setup.py
+!setup.cfg
